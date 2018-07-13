@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00a4c4</color>
+    <color name="primary_dark">#004c75</color>
+    <color name="primary_light">#0bcff5</color>
+    <color name="accent">#004c75</color>
+    <color name="primary_text">#272b3d</color>
+    <color name="secondary_text">#8a8c96</color>
+    <color name="tertiary_text">#eeeeee</color>
+
+
+    <color name="line_divider">#e0e0da</color>
+
+    <color name="et_footer">#bdbdbd</color>
+
+
+    <color name="text_white">#ffffff</color>
+    <color name="progress_dialog_background">#f0bfbfbf</color>
+
+    <color name="app_background">#ffffff</color>
+
+    <color name="snackbar_background">#ef9f11</color>
+
+    <color name="progress_dialog_background_color">#ffffff</color>
+
+    <color name="hint_text_color">#9e9e9e</color>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_margin_extra_large">20dp</dimen>
+    <dimen name="activity_margin_small">8dp</dimen>
+    <dimen name="activity_margin_extra_small">4dp</dimen>
+
+
+    <dimen name="text_size_extreme_small">10sp</dimen>
+    <dimen name="text_size_extra_small">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_extra_large">20sp</dimen>
+    <dimen name="text_size_title">22sp</dimen>
+
+
+    <dimen name="bt_radius">4dp</dimen>
+    <dimen name="bt_padding">8dp</dimen>
+    <dimen name="bt_elevation">4dp</dimen>
+    <dimen name="et_radius">4dp</dimen>
+    <dimen name="et_padding">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+
+
+    <dimen name="material_drawer_item_primary_text">16sp</dimen>
+    <dimen name="material_drawer_account_header_text">16sp</dimen>
+</resources>

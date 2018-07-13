@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">FileUpload</string>
+
+    <string name="progress_dialog_text_loading">Loading&#8230;</string>
+    <string name="progress_dialog_text_please_wait">Please wait&#8230;</string>
+    <string name="progress_dialog_text_sending_request">Sending Request&#8230;</string>
+    <string name="progress_dialog_text_submitting_responses">Submitting Responses&#8230;</string>
+    <string name="progress_dialog_text_initializing">Initializing Application&#8230;\nThis may take
+        some time
+    </string>
+
+    <string name="snackbar_text_no_internet_connection_available">No Internet Connection available
+    </string>
+    <string name="snackbar_text_error_occurred">Error Occurred</string>
+    <string name="snackbar_text_unstable_internet">Unstable Internet Connection</string>
+    <string name="snackbar_text_exception_occurred">Exception Occurred</string>
+    <string name="snackbar_text_invalid_access_pin">Invalid Access PIN</string>
+
+    <string name="snackbar_action_go_to_settings">GO TO SETTINGS</string>
+    <string name="snackbar_action_dismiss">DISMISS</string>
+    <string name="snackbar_action_retry">RETRY</string>
+    <string name="snackbar_action_undo">UNDO</string>
+
+    <string name="dialog_text_new_version_available">New version of the application is available.
+        Please update
+    </string>
+    <string name="dialog_text_sign_out">Do you wish to Sign Out?</string>
+    <string name="dialog_text_permission_required">Permission are required please enable them on the
+        App Setting page
+    </string>
+
+
+    <string name="dialog_hint_optional">optional</string>
+
+    <string name="dialog_action_yes">YES</string>
+    <string name="dialog_action_no">NO</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">CANCEL</string>
+    <string name="dialog_action_save">SAVE</string>
+    <string name="dialog_action_logout">LOGOUT</string>
+    <string name="dialog_action_submit">SUBMIT</string>
+    <string name="dialog_action_proceed">PROCEED</string>
+    <string name="dialog_action_ignore">IGNORE</string>
+    <string name="dialog_action_update">UPDATE</string>
+    <string name="dialog_action_exit">EXIT</string>
+    <string name="dialog_action_settings">SETTINGS</string>
+    <string name="dialog_action_close">CLOSE</string>
+    <string name="dialog_action_show_all">SHOW ALL</string>
+
+
+
+
+
+    <string name="activity_login_text_logo">Logo</string>
+    <string name="activity_login_text_login">LOGIN</string>
+    <string name="activity_login_text_username">Username</string>
+    <string name="activity_login_text_password">Password</string>
+    <string name="activity_login_text_forgot_password">Forgot Password</string>
+    <string name="activity_login_text_show">SHOW</string>
+    <string name="activity_login_text_hide">HIDE</string>
+
+    <string name="activity_main_text_no_job_available">No Job Currently Available</string>
+    <string name="activity_main_text_please_wait_while_we_load">Please wait while we fetch the Jobs
+        from the server
+    </string>
+    <string name="activity_main_text_no_internet">Oh no!\n\nNo Internet found. Check your connection
+        or try again.
+    </string>
+    <string name="activity_main_text_retry">RETRY</string>
+
+
+    <string name="activity_change_password_text_old_password">Old Password *</string>
+    <string name="activity_change_password_text_new_password">New Password *</string>
+    <string name="activity_change_password_text_confirm_password">Confirm Password *</string>
+
+
+    <string name="please_enter_username">Please enter Username</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="password_did_not_match">Password did not match</string>
+
+
+    <string name="button_text_select_image">SELECT IMAGE</string>
+    <string name="button_text_select_file">SELECT FILE</string>
+
+
+</resources>

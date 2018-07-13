@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tvUploadImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_background"
+                android:textStyle="bold"
+android:layout_margin="@dimen/activity_margin"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_medium"
+                android:textColor="@color/text_white"
+                android:padding="@dimen/activity_margin"
+                android:text="UPLOAD IMAGE"/>
+            <TextView
+                android:id="@+id/tvUploadVideo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_background"
+                android:textStyle="bold"
+                android:layout_margin="@dimen/activity_margin"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_medium"
+                android:textColor="@color/text_white"
+                android:padding="@dimen/activity_margin"
+                android:text="UPLOAD VIDEO"/>
+
+            <TextView
+                android:id="@+id/tvUploadFile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bt_background"
+                android:textStyle="bold"
+                android:layout_margin="@dimen/activity_margin"
+                android:gravity="center"
+                android:textSize="@dimen/text_size_medium"
+                android:textColor="@color/text_white"
+                android:padding="@dimen/activity_margin"
+                android:text="UPLOAD FILE"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>
